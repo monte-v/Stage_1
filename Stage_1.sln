@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_5_DIP", "solid_5_DIP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics_1_generalized_class", "generics_1_generalized_class\generics_1_generalized_class.csproj", "{B9B68716-3975-4733-97D2-48CB8F3F0875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics_2_generalized_method", "generics_2_generalized_method\generics_2_generalized_method.csproj", "{1B226FB1-5DEA-41B4-88DE-CAE051B38676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B226FB1-5DEA-41B4-88DE-CAE051B38676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B226FB1-5DEA-41B4-88DE-CAE051B38676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B226FB1-5DEA-41B4-88DE-CAE051B38676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B226FB1-5DEA-41B4-88DE-CAE051B38676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
