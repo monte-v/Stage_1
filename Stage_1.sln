@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_2_OCP", "solid_2_OCP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_3_LSP", "solid_3_LSP\solid_3_LSP.csproj", "{9183DBA4-7F97-4CA6-B1DE-E6FEF7543D38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_4_ISP", "solid_4_ISP\solid_4_ISP.csproj", "{1DEB2BBE-5ADF-44F3-B922-F4753646CEC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9183DBA4-7F97-4CA6-B1DE-E6FEF7543D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9183DBA4-7F97-4CA6-B1DE-E6FEF7543D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9183DBA4-7F97-4CA6-B1DE-E6FEF7543D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEB2BBE-5ADF-44F3-B922-F4753646CEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEB2BBE-5ADF-44F3-B922-F4753646CEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEB2BBE-5ADF-44F3-B922-F4753646CEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEB2BBE-5ADF-44F3-B922-F4753646CEC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
