@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_4_ISP", "solid_4_ISP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_5_DIP", "solid_5_DIP\solid_5_DIP.csproj", "{20C767F4-0B63-4756-80B7-2646C1CC1BE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics_1_generalized_class", "generics_1_generalized_class\generics_1_generalized_class.csproj", "{B9B68716-3975-4733-97D2-48CB8F3F0875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{20C767F4-0B63-4756-80B7-2646C1CC1BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C767F4-0B63-4756-80B7-2646C1CC1BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C767F4-0B63-4756-80B7-2646C1CC1BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B68716-3975-4733-97D2-48CB8F3F0875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
