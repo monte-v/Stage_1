@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace solid_5_DIP
 {
-    internal class ConsoleLogger
+    internal class ConsoleLogger: ILogger
     {
         public void Log(string message)
         {
