@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_3_Polymorphism", "opp_3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_4_Abstraction", "opp_4_Abstraction\opp_4_Abstraction.csproj", "{781C5D9A-4D69-464C-89C7-34C8F23FA172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_1_SRP", "solid_1_SRP\solid_1_SRP.csproj", "{9057CBFE-9F73-4E57-9499-D938C1F00945}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{781C5D9A-4D69-464C-89C7-34C8F23FA172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781C5D9A-4D69-464C-89C7-34C8F23FA172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781C5D9A-4D69-464C-89C7-34C8F23FA172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
