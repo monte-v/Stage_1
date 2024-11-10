@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opp_1_BankAcoount", "opp_1_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_2_Inheritance", "opp_2_Inheritance\opp_2_Inheritance.csproj", "{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_3_Polymorphism", "opp_3_Polymorphism\opp_3_Polymorphism.csproj", "{BD628732-6FFD-4AA3-B703-17AF89E87441}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD628732-6FFD-4AA3-B703-17AF89E87441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD628732-6FFD-4AA3-B703-17AF89E87441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD628732-6FFD-4AA3-B703-17AF89E87441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD628732-6FFD-4AA3-B703-17AF89E87441}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
