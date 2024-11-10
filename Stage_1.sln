@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_4_Abstraction", "opp_4_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_1_SRP", "solid_1_SRP\solid_1_SRP.csproj", "{9057CBFE-9F73-4E57-9499-D938C1F00945}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_2_OCP", "solid_2_OCP\solid_2_OCP.csproj", "{74E847B1-8EA5-4845-B76A-5F142878B88F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9057CBFE-9F73-4E57-9499-D938C1F00945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E847B1-8EA5-4845-B76A-5F142878B88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E847B1-8EA5-4845-B76A-5F142878B88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E847B1-8EA5-4845-B76A-5F142878B88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E847B1-8EA5-4845-B76A-5F142878B88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
