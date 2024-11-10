@@ -7,7 +7,8 @@ class Program
     {
         Animal[] animals = new Animal[]
         {
-            new Dog()
+            new Dog(),
+            new Cat()
         };
 
         foreach (Animal animal in animals)
