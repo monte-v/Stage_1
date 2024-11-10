@@ -32,6 +32,21 @@ namespace opp_1_BankAcoount
             Console.WriteLine($"Вы пополнили счет на {amount}. Новый баланс: {balance}");
         }
 
+        // Метод для снятия средств со счета
+        public void Withdraw(decimal amount)
+        {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("Сумма снятия должна быть положительной.");
+            }
+            if (amount > balance)
+            {
+                throw new InvalidOperationException("Недостаточно средств на счете.");
+            }
+            balance -= amount;
+            Console.WriteLine($"Вы сняли {amount}. Новый баланс: {balance}");
+        }
+
         public decimal GetBalance()
         {
             return balance;
