@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using opp_3_Polymorphism;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Animal[] animals = new Animal[]
+        {
+            new Dog()
+        };
+
+        foreach (Animal animal in animals)
+        {
+            Console.WriteLine(animal.MakeSound());
+        }
+    }
+}
