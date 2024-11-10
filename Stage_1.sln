@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_1_BankAcoount", "opp_1_BankAcoount\opp_1_BankAcoount.csproj", "{89B499CA-F1C9-4FCF-8FAC-9D316F2DCD11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opp_1_BankAcoount", "opp_1_BankAcoount\opp_1_BankAcoount.csproj", "{89B499CA-F1C9-4FCF-8FAC-9D316F2DCD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opp_2_Inheritance", "opp_2_Inheritance\opp_2_Inheritance.csproj", "{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{89B499CA-F1C9-4FCF-8FAC-9D316F2DCD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B499CA-F1C9-4FCF-8FAC-9D316F2DCD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B499CA-F1C9-4FCF-8FAC-9D316F2DCD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B450632-9D2A-4C6B-86F3-E98AC5C2DAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
