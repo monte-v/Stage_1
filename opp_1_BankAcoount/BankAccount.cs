@@ -21,6 +21,17 @@ namespace opp_1_BankAcoount
             balance = initialBalance;
         }
 
+        // Метод для пополнения счета
+        public void Deposit(decimal amount)
+        {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("Сумма пополнения должна быть положительной.");
+            }
+            balance += amount;
+            Console.WriteLine($"Вы пополнили счет на {amount}. Новый баланс: {balance}");
+        }
+
         public decimal GetBalance()
         {
             return balance;
